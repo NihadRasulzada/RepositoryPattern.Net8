@@ -10,4 +10,8 @@
     <ProjectReference Include="..\RepositoryPattern.DataAccess\RepositoryPattern.DataAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+
 </Project>
